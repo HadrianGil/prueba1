@@ -12,3 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sodales est nec l
 - puerro
 - zanahoria
 - huevos
+
+```python
+if you == "Nico":
+    print("You are estútipa")
+```
