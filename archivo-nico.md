@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar lacus et 
 - puerros
 
 eeeeeeeeeeeeeeeeeeeeee
+
+spoiler alert !!!!!!!!!!!!!!!!! kaladin muere al final del primer libro y aparece kelsier y vin y se van de cañas con syl
