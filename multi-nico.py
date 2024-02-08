@@ -1,6 +1,6 @@
 numero = int(input("Introduce un numero: "))
 
-for i in range(10):
+for i in range(10)
     print(numero,"x",i,"=",numero*i)
 
 # for i in range(2,10,2):
